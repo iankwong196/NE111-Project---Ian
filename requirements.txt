@@ -1,4 +1,0 @@
-streamlit
-scipy
-pandas
-altair
